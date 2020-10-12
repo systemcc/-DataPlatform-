@@ -5125,7 +5125,7 @@
 #u610 {
   position:absolute;
   left:255px;
-  top:101px;
+  top:96px;
   visibility:hidden;
 }
 #u610_state0 {
@@ -16578,7 +16578,7 @@
   border-width:0px;
   position:absolute;
   left:255px;
-  top:101px;
+  top:61px;
   width:939px;
   height:541px;
   visibility:hidden;
@@ -18629,4 +18629,41 @@
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
+}
+#u1010_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:888px;
+  height:350px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1010 {
+  border-width:0px;
+  position:absolute;
+  left:328px;
+  top:184px;
+  width:888px;
+  height:350px;
+  display:flex;
+}
+#u1010 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1010_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
 }
