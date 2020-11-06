@@ -333,4 +333,24 @@
 }
 .flow_shape {
 }
+.font_awesome_5_free_solid {
+  font-family:'Font Awesome 5 Free ', 'Font Awesome 5 Free', sans-serif;
+  font-weight:900;
+  font-style:normal;
+}
+.refs-webm-wechat {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+._一级标题 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._文本段落1 {
+  text-align:left;
+}
 textarea, select, input, button { outline: none; }
